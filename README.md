@@ -12,4 +12,4 @@ Status: Public hypothesis / conceptual framework / open research draft
 
 ## Abstract
 
-**Planetary Heat and Circulation OS** is a conceptual
+**Planetary Heat and Circulation OS** is a conceptual framework for viewing global warming through both
