@@ -12,6 +12,4 @@ Status: Public hypothesis / conceptual framework / open research draft
 
 ## Overview
 
-**Planetary Heat and Circulation OS** is a conceptual framework for understanding global warming through both **heat accumulation** and **planetary circulation**.
-
-The framework treats Earth as an integrated thermal-circulation system composed of ocean heat content, atmospheric circulation, water cycles, carbon cycles, soil systems, microbial cycles, forests
+Planetary Heat and Circulation OS is a conceptual framework for understanding global warming through both
