@@ -1,6 +1,6 @@
 # Planetary Heat and Circulation OS
 
-**A thermal-circulation framework for understanding global warming, ocean heat content, and Earth-system stability**
+**A thermal-circulation framework for understanding global warming, ocean heat content, and Earth-system stability.**
 
 [日本語版はこちら / Japanese version](README_ja.md)
 
@@ -12,4 +12,6 @@ Status: Public hypothesis / conceptual framework / open research draft
 
 ## Abstract
 
-**Planetary Heat and Circulation OS** is a conceptual framework for viewing global warming through both **temperature**
+**Planetary Heat and Circulation OS** is a conceptual framework for understanding global warming through both **heat accumulation** and **planetary circulation**.
+
+It treats Earth as an integrated thermal-circulation system composed of ocean heat content, atmospheric
