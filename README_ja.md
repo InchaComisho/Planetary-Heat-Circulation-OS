@@ -592,4 +592,9 @@ Creative Commons Attribution-ShareAlike 4.0 International
 ## 検索キーワード
 
 惑星熱・循環OS、地球温暖化、海洋熱含量、海洋蓄熱、地球システム安定性、熱ストック、熱慣性、海洋循環、大気循環、水循環、炭素循環、土壌再生、微生物循環、炭素固定源再生、気候ティッピングポイント、地球直接冷却、人工叡智
+## 関連：黎明文明
 
+* [黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+  消費型文明から惑星循環文明への移行を整理する上位文明ポータル。自然法則、人工叡智、自然補完科学、都市・文明OS、自然・微生物OS、惑星熱・循環OS、持続的未来文明マスタープラン、自然模倣型エネルギー・アーキテクチャなどを統合する文明モデル。
+
+* [English version: REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
