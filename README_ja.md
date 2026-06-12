@@ -623,6 +623,12 @@ CO2削減は、熱源を減らすことに似ています。
 - [惑星熱・循環OS（日本語版README）](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
+### 循環都市構想
+
+- [循環都市構想：既存都市を水・熱・エネルギー・食料・有機物の循環システムへ改修するモデル](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+- [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+- [NOTE記事：循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
+
 ---
 
 ## ライセンス
