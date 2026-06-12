@@ -16,6 +16,15 @@ In simple terms:
 
 ---
 
+## Position within the Civilization OS Framework
+
+This document is part of the **Civilization OS** and **REIMEI Civilization OS / Next Civilization OS** framework, which aims to redesign civilization in alignment with natural law, planetary circulation, and the age of AI.
+
+- [Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
+---
+
 ## Abstract
 
 Most public discussions of global warming focus on the atmospheric pathway: greenhouse gas emissions increase radiative forcing, and global surface temperature rises. This is scientifically important, but incomplete as a full Earth-system model.

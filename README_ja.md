@@ -16,6 +16,16 @@
 
 ---
 
+## 文明OS体系における位置づけ
+
+本ドキュメントは、**文明OS / Civilization OS** および **次世代文明OS／黎明文明OS** 体系の一部です。  
+地球の熱循環と気候安定性を惑星スケールで理解するためのOSモデルとして位置づけられます。
+
+- [文明OS / Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+
+---
+
 ## 要旨
 
 一般的な地球温暖化の説明では、温室効果ガスの排出によって放射強制力が高まり、地表気温が上昇すると説明されます。
