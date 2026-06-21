@@ -548,6 +548,13 @@ CO2削減は、熱源を減らすことに似ています。
 
 ---
 
+## 関連する海洋冷却モジュール
+
+- [OTUによる直接的惑星冷却構想](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
+  OTUは、惑星熱循環制御における海洋側の実装モジュールとして位置づけられる。正回転送気、逆回転深層水表層冷却、広角拡散、一部エネルギー回収、OTEC補助電源、エコセーフモードを含む、双方向螺旋型の海洋鉛直流調律ユニット構想である。
+
+---
+
 ## 著者
 
 マスター / inchacomusho / InchaComisho

@@ -535,6 +535,13 @@ It is a map for thinking about climate stabilization at the scale of the whole E
 
 ---
 
+## Related Ocean Cooling Module
+
+- [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
+  OTU provides a conceptual ocean-side implementation module for planetary heat circulation control. It is now positioned as a bidirectional spiral ocean vertical-flow tuning unit, combining forward aeration, reverse deep-water surface cooling, wide-angle diffusion, partial energy recovery, OTEC assist power, and Eco Safe Mode.
+
+---
+
 ## Author
 
 Master / inchacomusho / InchaComisho
