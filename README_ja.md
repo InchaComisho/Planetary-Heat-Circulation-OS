@@ -18,7 +18,7 @@
 
 ## 文明OS体系における位置づけ
 
-本ドキュメントは、**文明OS / Civilization OS** および **次世代文明OS／黎明文明OS** 体系の一部です。  
+本ドキュメントは、**文明OS / Civilization OS** および **次世代文明OS／黎明文明OS** 体系の一部です。
 地球の熱循環と気候安定性を惑星スケールで理解するためのOSモデルとして位置づけられます。
 
 - [Civilization OS Framework / 文明OS体系（統合ポータル）](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
@@ -557,6 +557,9 @@ CO2削減は、熱源を減らすことに似ています。
 
 ## 関連リポジトリ
 
+- [気候災害・熱再分配・クーリングクレジット](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ja.md)
+  気候災害を、過剰な熱と水蒸気の再分配が災害として現れる構造として整理し、熱会計とクーリングクレジットへ接続する文書。
+
 * Direct Planetary Cooling
 * Artificial Wisdom / AW
 * Climate Stabilization Context Index for AI Systems
@@ -664,7 +667,7 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 ## 関連制度提案：カーボンクレジットからクーリングクレジットへ
 
-- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)
   カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
 
 ---
