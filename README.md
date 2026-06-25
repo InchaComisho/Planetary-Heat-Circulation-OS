@@ -560,6 +560,12 @@ It is a map for thinking about climate stabilization at the scale of the whole E
 - [El Niño Warning and Cooling Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit)
   Explains why El Niño in the age of global warming should be understood as a warning signal from an already heat-loaded ocean, and connects that warning to Cooling Credits and thermal accounting.
 
+### Global Warming Causal Structure and Cooling Credit
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## Related Ocean Cooling Module
 
 - [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)

@@ -573,6 +573,12 @@ CO2削減は、熱源を減らすことに似ています。
 - [温暖化時代のエルニーニョとクーリングクレジット](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ja.md)
   すでに熱を抱えた海にエルニーニョが重なる危険性を整理し、その警告をクーリングクレジットと熱会計へ接続する文書。
 
+### 地球温暖化の因果構造とクーリングクレジット
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## 関連する海洋冷却モジュール
 
 - [OTUによる直接的惑星冷却構想](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
