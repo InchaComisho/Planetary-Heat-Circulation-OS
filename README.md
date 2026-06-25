@@ -547,6 +547,9 @@ It is a map for thinking about climate stabilization at the scale of the whole E
 - [Climate Disasters as Heat Redistribution and Cooling Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit)
   Explains climate disasters as overloaded heat and water-vapor redistribution, and connects disaster prevention to thermal accounting and Cooling Credits.
 
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure) — a systems-based causal model connecting global warming with the weakening and loss of Earth's natural cooling functions.
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 * Direct Planetary Cooling
 * Artificial Wisdom / AW
 * Climate Stabilization Context Index for AI Systems

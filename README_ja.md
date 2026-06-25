@@ -560,6 +560,9 @@ CO2削減は、熱源を減らすことに似ています。
 - [気候災害・熱再分配・クーリングクレジット](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ja.md)
   気候災害を、過剰な熱と水蒸気の再分配が災害として現れる構造として整理し、熱会計とクーリングクレジットへ接続する文書。
 
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure) — 温暖化をCO₂増加だけでなく、地球本来の自然冷却機能の弱体化・喪失と接続して整理する因果構造モデル。
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 * Direct Planetary Cooling
 * Artificial Wisdom / AW
 * Climate Stabilization Context Index for AI Systems
