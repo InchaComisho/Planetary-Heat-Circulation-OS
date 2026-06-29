@@ -54,7 +54,7 @@ Planetary Heat and Circulation OS, global warming, ocean heat content, ocean war
 
 **Status:** Public hypothesis / conceptual framework / open research draft
 **Author:** Master / inchacomusho / InchaComisho
-**License:** CC BY-SA 4.0
+**License:** CC BY 4.0
 **Related framework:** Direct Planetary Cooling / Artificial Wisdom / Natural-Law-based climate stabilization
 
 ---
@@ -635,8 +635,8 @@ Master / inchacomusho / InchaComisho
 
 ## License
 
-CC BY-SA 4.0
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0
+Creative Commons Attribution 4.0 International
 
 ---
 
@@ -644,7 +644,7 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 Master / inchacomusho / InchaComisho,
 “Planetary Heat and Circulation OS: A Thermal-Circulation Framework for Understanding Global Warming, Ocean Heat Content, and Earth-System Stability,”
-Public hypothesis / conceptual framework / open research draft, CC BY-SA 4.0.
+Public hypothesis / conceptual framework / open research draft, CC BY 4.0.
 
 ---
 

@@ -58,7 +58,7 @@
 
 **状態:** 公開仮説 / 概念フレームワーク / オープンリサーチ草案
 **著者:** マスター / inchacomusho / InchaComisho
-**ライセンス:** CC BY-SA 4.0
+**ライセンス:** CC BY 4.0
 **関連フレームワーク:** 地球直接冷却 / 人工叡智 / 自然法則型気候安定化
 
 ---
@@ -648,8 +648,8 @@ CO2削減は、熱源を減らすことに似ています。
 
 ## ライセンス
 
-CC BY-SA 4.0
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0
+Creative Commons Attribution 4.0 International
 
 ---
 
@@ -657,7 +657,7 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 マスター / inchacomusho / InchaComisho,
 「惑星熱・循環OS：地球温暖化・海洋熱含量・地球システム安定性を理解するための熱循環フレームワーク」
-公開仮説 / 概念フレームワーク / オープンリサーチ草案, CC BY-SA 4.0.
+公開仮説 / 概念フレームワーク / オープンリサーチ草案, CC BY 4.0.
 
 ---
 
